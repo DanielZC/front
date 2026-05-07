@@ -1,4 +1,4 @@
-# React + TypeScript + Vite
+# React + Vite
 
 # Entorno de desarrollo
 - Herramientas necesarias ``node 22.18^``.
