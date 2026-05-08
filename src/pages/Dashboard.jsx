@@ -2,7 +2,7 @@ import { use, useEffect, useState } from "react";
 import { list } from "../api/services/hotel.services";
 import { HotelContext } from "../context/HotelContext";
 import { Modal } from "../components/modals/Modal";
-import { HotelForm } from "../components/forms/hotel/hotelForm";
+import { HotelForm } from "../components/forms/hotel/HotelForm";
 import { Eye, Pencil, Trash2 } from "lucide-react";
 import { toast } from "sonner";
 import { HotelInfo } from "../components/HotelInfo";
